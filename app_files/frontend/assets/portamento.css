@@ -1,0 +1,14 @@
+@charset "utf-8";
+#portamento_container {
+	float:left; 
+	position:relative;
+}
+
+#portamento_container #psidebar {
+	float:none; 
+	position:absolute;
+}
+
+#portamento_container #psidebar.fixed {
+	position:fixed;
+}
